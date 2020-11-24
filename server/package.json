@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "The UnSearch Server",
+  "main": "./dist/index.js",
+  "author": "Alex Kreidler",
+  "license": "MIT",
+  "dependencies": {
+    "@types/lunr": "^2.3.3",
+    "express": "^4.17.1",
+    "lunr": "^2.3.9"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.9"
+  }
+}
